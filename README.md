@@ -65,12 +65,16 @@
 
 ### 🏅 Certifications  
 
-- Mastering Generative AI & ChatGPT — GeeksforGeeks  
-- Cisco Certifications in **C** and **Python**  
-- Embedded Systems with Arduino — GeeksforGeeks  
-- Coursera Certifications in **AWS** & **Cloud Computing**  
-- Cambridge C1 & Pearson C2 Certifications (English)  
-- Oracle Certified  
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI%20&%20ChatGPT-GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%20Programming-Cisco-0052CC?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Cisco-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Coursera-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Computing-Coursera-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/English%20Proficiency-Cambridge%20C1%20%7C%20Pearson%20C2-0A66C2?style=for-the-badge&logo=bookstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
 ---
 
@@ -101,3 +105,4 @@
 ---
 
 <h3 align="center">✨ Always Learning | Always Building | Always Sharing ✨</h3>
+
